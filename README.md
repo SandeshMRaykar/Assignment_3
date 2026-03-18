@@ -1,5 +1,5 @@
 # Assignment_3
-# MATH/CSCI 485 - Sandesh Manjunath Raykar
+# MATH 485 - Sandesh Manjunath Raykar
 
 This repository contains assignments for MATH/CSCI 485 Advanced Topics in Data Science at California State University, Chico.
 
