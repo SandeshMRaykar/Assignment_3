@@ -1,7 +1,7 @@
 # Assignment_3
 # MATH 485 - Sandesh Manjunath Raykar
 
-This repository contains assignments for MATH/CSCI 485 Advanced Topics in Data Science at California State University, Chico.
+This repository contains assignments for MATH 485 Advanced Topics in Data Science at California State University, Chico.
 
 ## Assignment 3 - Image Compression via Block-wise SVD
 
